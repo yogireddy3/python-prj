@@ -2,7 +2,7 @@ hello testing the details , iam checcking the rebase commit on the sample file ,
 
 step:1 : testing with master to feature branch
 
-step:2 : updated the changes and merge to master branchs
+step:2 : updated the changes and merge to master branch test
 
 step:3 : commit the code the repos
 
