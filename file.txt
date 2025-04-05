@@ -1,1 +1,9 @@
 hello testing the details , iam checcking the rebase commit on the sample file , tested working
+
+step:1 : testing with master to feature branch
+
+step:2 : updated the changes and merge to master branch
+
+step:3 : commit the code the repo
+
+step:4: testing on the git rebase.
